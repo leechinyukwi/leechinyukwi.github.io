@@ -10,8 +10,9 @@ export default function Navbar({ currentPage, setPage }) {
   return (
     <nav className="fixed top-0 z-50 w-full bg-darkbg/95 backdrop-blur-sm">
       <div className="mx-auto flex h-20 max-w-6xl items-center justify-between px-4 sm:px-6 lg:px-10">
-        <button onClick={() => setPage("Home")} className="text-2xl font-bold tracking-tight">
-          Portfolio<span className="text-cyan-500">.</span>
+        <button onClick={() => setPage("Home")} className="flex items-center gap-2 text-2xl font-bold tracking-tight">
+          <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-cyan-500 text-sm font-bold text-darkbg">L</span>
+          lee<span className="text-cyan-500">Tech</span>
         </button>
 
         <div className="hidden items-center gap-1 md:flex">
