@@ -62,8 +62,7 @@ export default function Home() {
             transition={{ duration: 0.4, delay: 0.4 }}
             className="mb-6 leading-8 text-gray-400"
           >
-            Computer Science graduate passionate about building modern web applications,
-            mobile apps and backend systems using React, ASP.NET Core, Django and Flutter.
+            Computer Science graduate passionate about building modern web applications, mobile apps and backend systems using React, ASP.NET Core, Django and Flutter, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, ASP.NET Core MVC (C#), Python, PHP, WordPress, RESTful APIs, Git, SQL Server, MySQL, PostgreSQL, Docker, and Flutter.
           </motion.p>
 
           <motion.div
