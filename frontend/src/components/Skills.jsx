@@ -11,7 +11,7 @@ const skillsData = [
   },
   {
     category: "Backend Development",
-    items: ["ASP.NET Core (C#)", "Django", "PHP", "Laravel"],
+    items: ["ASP.NET Core MVC", "Django", "PHP", "Laravel"],
   },
   {
     category: "Mobile Development",

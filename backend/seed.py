@@ -52,7 +52,7 @@ def seed():
     skills_data = [
         (cat_lang, ["Python", "C#", "JavaScript", "R"]),
         (cat_frontend, ["React", "Tailwind CSS", "HTML5", "CSS3", "Bootstrap"]),
-        (cat_backend, ["ASP.NET Core (C#)", "Django", "PHP", "Laravel"]),
+        (cat_backend, ["ASP.NET Core MVC", "Django", "PHP", "Laravel"]),
         (cat_mobile, ["Flutter"]),
         (cat_db, ["SQL Server", "MySQL", "PostgreSQL"]),
         (cat_tools, ["Git", "GitHub", "Docker", "Visual Studio", "Visual Studio Code"]),
@@ -83,7 +83,7 @@ def seed():
         },
         {
             "title": "Inventory Management System",
-            "tech_stack": "ASP.NET Core, SQL Server",
+            "tech_stack": "ASP.NET Core MVC, SQL Server",
             "description": "An inventory management solution for tracking products and stock levels.",
             "features": "Product tracking, Stock monitoring, Reports generation",
             "github_link": "https://github.com/leechinyukwi/inventory-system",

@@ -16,7 +16,7 @@ const projects = [
   },
   {
     title: "Inventory Management System",
-    tech: "ASP.NET Core, SQL Server",
+    tech: "ASP.NET Core MVC, SQL Server",
     features: ["Product tracking", "Stock monitoring", "Reports generation"],
     github: "https://github.com/leechinyukwi/inventory-system",
   },
