@@ -50,9 +50,9 @@ def seed():
     cat_tools = SkillCategory.objects.create(name="Tools & Technologies", order=6)
 
     skills_data = [
-        (cat_lang, ["Python", "C#", "JavaScript"]),
+        (cat_lang, ["Python", "C#", "JavaScript", "R"]),
         (cat_frontend, ["React", "Tailwind CSS", "HTML5", "CSS3", "Bootstrap"]),
-        (cat_backend, ["ASP.NET Core (C#)", "Django", "PHP"]),
+        (cat_backend, ["ASP.NET Core (C#)", "Django", "PHP", "Laravel"]),
         (cat_mobile, ["Flutter"]),
         (cat_db, ["SQL Server", "MySQL", "PostgreSQL"]),
         (cat_tools, ["Git", "GitHub", "Docker", "Visual Studio", "Visual Studio Code"]),

@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const skillsData = [
   {
     category: "Programming Languages",
-    items: ["Python", "C#", "JavaScript"],
+    items: ["Python", "C#", "JavaScript", "R"],
   },
   {
     category: "Frontend Development",
@@ -11,7 +11,7 @@ const skillsData = [
   },
   {
     category: "Backend Development",
-    items: ["ASP.NET Core (C#)", "Django", "PHP"],
+    items: ["ASP.NET Core (C#)", "Django", "PHP", "Laravel"],
   },
   {
     category: "Mobile Development",
