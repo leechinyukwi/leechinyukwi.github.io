@@ -22,17 +22,18 @@ def seed():
             "using modern technologies such as React, ASP.NET Core, Django, and Flutter."
         ),
         about_summary=(
-            "Computer Science graduate with practical experience in software development, "
-            "web applications, database management, and system support. Proficient in "
-            "developing scalable solutions, troubleshooting technical issues, and supporting "
-            "business operations through technology. Strong analytical and problem-solving "
-            "abilities, with a passion for innovation and continuous learning."
+            "Computer Science graduate passionate about building modern web applications, "
+            "mobile apps, and backend systems. Proficient in React, ASP.NET Core MVC, "
+            "Django, Flutter, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Python, PHP, "
+            "WordPress, RESTful APIs, Git, SQL Server, MySQL, PostgreSQL, and Docker. "
+            "Strong analytical and problem-solving abilities with a passion for innovation "
+            "and continuous learning."
         ),
         career_objective=(
-            "To gain practical experience as a Software Developer while continuously improving "
-            "my technical skills and contributing to the development of innovative software "
-            "solutions. My long-term goal is to become a highly skilled Software Developer "
-            "capable of building impactful and scalable applications."
+            "To secure a role as a Web/Software Developer where I can apply my skills in "
+            "modern web technologies to build impactful and scalable applications. My goal "
+            "is to continuously grow as a developer and contribute to innovative solutions "
+            "that solve real-world problems."
         ),
         email="chinyukwilinda@gmail.com",
         phone="0783260188",
