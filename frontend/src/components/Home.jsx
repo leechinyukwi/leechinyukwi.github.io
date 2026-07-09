@@ -53,7 +53,7 @@ export default function Home() {
             transition={{ duration: 0.4, delay: 0.3 }}
             className="my-3 text-2xl font-semibold sm:text-3xl"
           >
-            And I'm a <span className="text-cyan-500">Software Developer</span>
+            And I'm a <span className="text-cyan-500">Software / Web Developer</span>
           </motion.h2>
 
           <motion.p
