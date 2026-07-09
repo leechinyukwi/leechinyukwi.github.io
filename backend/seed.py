@@ -66,11 +66,11 @@ def seed():
     Project.objects.all().delete()
     projects_data = [
         {
-            "title": "Help Desk & Ticketing System",
-            "tech_stack": "ASP.NET Core, SQL Server, React",
-            "description": "A comprehensive help desk and ticketing system for managing support requests.",
-            "features": "User authentication, Ticket creation and tracking, Admin dashboard, Reporting",
-            "github_link": "https://github.com/leechinyukwi/ZeguTicketingSystem",
+            "title": "E-Commerce Platform",
+            "tech_stack": "React, Django, PostgreSQL",
+            "description": "A full-featured e-commerce platform with product catalog, shopping cart, checkout, and admin dashboard.",
+            "features": "Product catalog with search & filters, Shopping cart & checkout flow, User authentication & profiles, Admin dashboard for orders & inventory",
+            "github_link": "https://github.com/leechinyukwi/ecommerce-platform",
             "order": 1,
         },
         {

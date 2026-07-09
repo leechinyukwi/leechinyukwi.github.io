@@ -3,10 +3,10 @@ import { FiExternalLink, FiGithub } from "react-icons/fi";
 
 const projects = [
   {
-    title: "Help Desk & Ticketing System",
-    tech: "ASP.NET Core, SQL Server, React",
-    features: ["User authentication", "Ticket creation and tracking", "Admin dashboard", "Reporting"],
-    github: "https://github.com/leechinyukwi/ZeguTicketingSystem",
+    title: "E-Commerce Platform",
+    tech: "React, Django, PostgreSQL",
+    features: ["Product catalog with search & filters", "Shopping cart & checkout flow", "User authentication & profiles", "Admin dashboard for orders & inventory"],
+    github: "https://github.com/leechinyukwi/ecommerce-platform",
   },
   {
     title: "Student Management System",
